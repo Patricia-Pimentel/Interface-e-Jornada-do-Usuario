@@ -31,5 +31,5 @@ Pessoa **adulta**, **ocupada**, **emocionalmente vulnerável** e com **baixa tol
 Organizar múltiplas funcionalidades dentro do app **sem dificultar o acesso à tarefa crítica de cuidado emocional**.
 
 
-[link](https://www.figma.com/proto/yOiN8mGXZ4bdBMF4DCQ5eS/Wireframe?node-id=2-232&t=nCuiD3OM6pCFCky0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Link do arquivo no Figma](https://www.figma.com/proto/yOiN8mGXZ4bdBMF4DCQ5eS/Wireframe?node-id=2-232&t=nCuiD3OM6pCFCky0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
